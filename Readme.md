@@ -92,8 +92,10 @@ void HAL_UART_TxCpltCallback(UART_HandleTypeDef *huart)
     }
 }
 ```
+# 硬體
+![image](https://github.com/bmmno-Roy/F407_FreeRTOS_CAN/blob/main/IMG/hardware.jpg)
 
-
-
-
+# 最終呈現
+![image](https://github.com/bmmno-Roy/F407_FreeRTOS_CAN/blob/main/IMG/UART.png)
+![image](https://github.com/bmmno-Roy/F407_FreeRTOS_CAN/blob/main/IMG/cangaroo.png)
 
